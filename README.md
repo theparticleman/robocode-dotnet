@@ -2,7 +2,7 @@
 The Robocode wiki has some pretty good information on creating a Robocode robot using .NET.
 But it is a bit lacking in some of the set up information.
 The goal of this README is to augment that information.
-You can find the Robocode setup instructions [here](), but make sure to do the steps in this README _before_ continuing the rest of the instructions from Robocode.
+You can find the Robocode setup instructions [here](https://github.com/theparticleman/robocode-dotnet), but make sure to do the steps in this README _before_ continuing the rest of the instructions from Robocode.
 
 ## Install Java
 The Robocode setup instructions mention installing Java, but don't give any additional details.
